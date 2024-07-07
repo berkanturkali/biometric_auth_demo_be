@@ -1,0 +1,8 @@
+{
+    "not_authenticated_error_message": "Yetkilendirme işlemi başarısız.",
+    "could_not_verified_error_message": "Token doğrulanamadı.",
+    "user_already_exists_error_message": "Kullanıcı kayıtlı. Lütfen farklı bilgiler ile tekrar deneyin.",
+    "signup_success_message": "Kayıt olma işlemi başarılı.",
+    "your_credentials_are_not_correct_message": "Bilgiler doğru değil. Lütfen farklı bir şeyler deneyin.",
+    "login_success_message": "Giriş işlemi başarılı."
+}
